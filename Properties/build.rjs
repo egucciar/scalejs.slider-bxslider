@@ -1,0 +1,8 @@
+﻿({
+	mainConfigFile: '../config.js',
+    include: 'scalejs.slider-bxslider',
+    exclude: [
+        'scalejs!core',
+		'text'
+    ]
+})
